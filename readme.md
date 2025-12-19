@@ -34,9 +34,9 @@ Visual Comparison: Side-by-side comparison tools for analyzing results.
 
 Note: This section is only required if you plan to use the data generation scripts (generate_lr_datasets.py) or re-train the models. You do not need this for basic inference.
 
-- Download Link (Scale x2): 👉 Kaggle Dataset (x2)
+- Download Link (Scale x2): 👉 [Kaggle Dataset (x2)](https://www.kaggle.com/datasets/milsonfeliciano/grayscale-microscopyx2)
 
-- Download Link (Scale x4): 👉 Kaggle Dataset (x4)
+- Download Link (Scale x4): 👉 [Kaggle Dataset (x4)](https://www.kaggle.com/datasets/milsonfeliciano/grayscale-microscopy)
 
 **Setup**: Extract the dataset content into a folder named Dataset/ in the root directory.
 
