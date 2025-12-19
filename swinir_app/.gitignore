@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# Large Model Weights (GitHub has a 100MB limit)
+# You should likely exclude these and instruct users to download them separately
+# unless you set up Git LFS.
+*.pth
+models/**/*.pth
+
+# OS specific
+.DS_Store
+Thumbs.db

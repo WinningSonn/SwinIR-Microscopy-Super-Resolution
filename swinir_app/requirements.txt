@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+numpy
+pandas
+opencv-python
+tifffile
+scikit-image
+lpips
+psutil
+pillow
+pytorch-msssim
